@@ -1,2 +1,2 @@
 # CurY
-Currency Exchange application
+Currency Exchange application!
